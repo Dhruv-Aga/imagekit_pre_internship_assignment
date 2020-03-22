@@ -1,0 +1,39 @@
+{
+  "name": "ImageKit assignment",
+  "version": "1.0.0",
+  "description": "Premiliary task for recruitment process",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "ejs": "*",
+    "errorhandler": "*",
+    "express": "*",
+    "express-ip": "^1.0.4",
+    "express-jwt": "*",
+    "express-session": "*",
+    "jsonwebtoken": "*",
+    "location-href": "^1.0.0",
+    "method-override": "*",
+    "methods": "*",
+    "mongoose": "4.4.10",
+    "mongoose-unique-validator": "1.0.2",
+    "morgan": "^1.9.1",
+    "nodemailer": "*",
+    "open": "0.0.5",
+    "passport": "*",
+    "passport-local": "*",
+    "request": "*",
+    "slug": "*",
+    "underscore": "*",
+    "window": "^4.2.6"
+  },
+  "devDependencies": {
+    "newman": "^4.6.0",
+    "nodemon": "*"
+  }
+}
