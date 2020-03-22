@@ -24,7 +24,7 @@
     "mongoose-unique-validator": "1.0.2",
     "morgan": "^1.9.1",
     "nodemailer": "*",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "passport": "*",
     "passport-local": "*",
     "request": "*",
